@@ -1,0 +1,16 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+int a;
+char b;
+float c;
+double d;
+cout<<"size of char:1byte\n",b;
+cout<<"size of int:4bytes\n",a;
+cout<<"size of float:4bytes\n",c;
+cout<<"size of double:8bytes\n",d;
+
+return0;
+}
